@@ -19,11 +19,11 @@ const Principal = () => {
                                 </div>
 
                                 {/* Titulo */}
-                                <div className="text-2xl text-[#056881] leading-relaxed flex-1">
+                                <div className="text-xl text-[#056881] leading-relaxed">
                                     {cards.title}
                                 </div>
                                 {/* descrição */}
-                                <div className="text-2xl text-[#849ffa] leading-relaxed flex-1">
+                                <div className="text-sm text-[#849ffa] leading-relaxed flex-1">
                                     {cards.text}
                                 </div>
                                 {/* butão */}
